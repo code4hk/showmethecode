@@ -1,0 +1,15 @@
+{
+  "name": "@onesky/j5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firmata": "^0.14.1",
+    "johnny-five": "^0.10.5"
+  }
+}
