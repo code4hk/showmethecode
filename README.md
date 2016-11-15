@@ -8,17 +8,20 @@
 又或是講得很High level，半天還未到主題
 反而Lighting Talk 大家都很受落
 在想以下的型式，叫"Show me the Code"的活動：
-能否一晚找4-5位講者，每人有15-20分鐘
-不準用投影片，只能打空代碼直接Demo 和分享他的Idea，
-有需要可以用Whiteboard 輔助
-分享的可以是一個簡單概念、一個小技巧，以小見大的一點啟發
-因為要show code，所以會寫較好的代碼和提高展示能力
-因為要show code，所以能促進Open Source
-因為時間比較短不用Slides，所以能鼓勵大家分享
-也希望聚會的休息時間中，能多促進交流
-每晚可能有一個主題，如前端／某Framework等等
-希望大家能多提意見和分享
-本來的概念參考設計界的pecha kucha，只許20張照片的限時演講
+
+## 型式/規則 Format/Rules
+- 每晚5-6位講者，每人有15-20分鐘
+- 不準用投影片，只能用代碼直接Demo 和分享Idea
+- 有需要可以用Whiteboard 輔助
+- 每晚可能有一個主題，如Javascript／前端／某Framework等等
+- 分享的可以是一個簡單概念、一個小技巧，以小見大的一點啟發
+
+- 因為要show code，所以要寫較好的代碼、提高展示能力
+- 因為要show code，所以希望能促進Open Source
+- 因為時間比較短不用Slides，所以能鼓勵大家分享
+
+- 希望大家能多提意見和分享
+- 本來的概念參考設計界的[pecha kucha](http://www.pechakucha.org/)，只許20張照片的限時演講
 
 This is a series of events, in order to promote
 - Open Source
