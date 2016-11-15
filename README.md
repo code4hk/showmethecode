@@ -1,5 +1,7 @@
 # Show-Me-The-Code Meetup
 
+## https://github.com/code4hk/showmethecode
+
 ## 目標 Goal
 實驗中的活動系列，希望在香港和台灣舉行：
 香港的Tech Event不算多，而如台北Meetup的講座很多時都很長，
