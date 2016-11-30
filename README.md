@@ -24,7 +24,7 @@
 2. 不准用投影片，只能用代碼直接Demo和分享Idea
 3. 有需要可以用Whiteboard 輔助
 
-## 型式 Format
+## 形式 Format
 - 每晚可能有一個主題，如Javascript／前端／某Framework等等
 - 分享的可以是一個簡單概念、一個小技巧，以小見大的一點啟發
 - 因為要show code，所以要寫較好的代碼、提高展示能力

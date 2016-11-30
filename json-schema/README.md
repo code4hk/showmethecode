@@ -10,6 +10,10 @@
  - [default values](https://github.com/epoberezkin/ajv#assigning-defaults)
  - https://github.com/epoberezkin/ajv#coercing-data-types
 
+## Sample case
+- https://github.com/vincentlaucy/fbreactions/pull/11
+
 ## To investigate
 - JSON-LD?
-- schema.org
+- Schema.org?
+- https://wallabyjs.com/
