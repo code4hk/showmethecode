@@ -15,7 +15,7 @@
 
 反而Lighting Talk 大家都很受落
 
-在想以下的型式，叫"Show me the Code"的活動
+在想以下的形式，叫"Show me the Code"的活動
 
 希望大家能多提意見和分享，本來的概念參考設計界的[pecha kucha](http://www.pechakucha.org/)－－只能用20張照片的限時演講
 
