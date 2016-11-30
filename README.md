@@ -1,6 +1,6 @@
 ![Logo](/logo.png)
 
-## Show me the code Meetup - https://github.com/code4hk/showmethecode
+## Show me the code Meetup - [bit.ly/showmethecode](https://bit.ly/showmethecode)
 
 ## 目標 Goal
 實驗中的活動系列，希望在香港和台灣舉行：
