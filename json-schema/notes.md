@@ -12,3 +12,4 @@
 
 ## To investigate
 - JSON-LD?
+- schema.org

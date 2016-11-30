@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ajv": "^4.9.0"
+    "ajv": "^4.9.0",
+    "lodash": "^4.17.2"
   }
 }
