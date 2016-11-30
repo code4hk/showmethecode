@@ -47,3 +47,11 @@ This is a series of lighting tech talks, in order to promote
 - Decouple speaker availability and topics, such that it is easier to organize and comment by topic
 - Please add your topics in the [meta issue](https://github.com/code4hk/showmethecode/issues/1)
 - Discuss at the meet up issue e.g. [this one hk 20161115](https://github.com/code4hk/showmethecode/issues/2) to confirm the schedule
+
+## 講者 Speakers
+- @indiejoseph @jjbubudi @rogerhokp @jc091 @karlvlam
+@isaac @kafai (OneSky)
+- @gilbertwat @vincentlaucy
+
+## Others
+LOGO Design: @waikitkan
