@@ -54,4 +54,4 @@ This is a series of lighting tech talks, in order to promote
 - @gilbertwat @vincentlaucy
 
 ## Others
-LOGO Design: @waikitkan
+Previous LOGO Design: @waikitkan
