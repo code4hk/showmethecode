@@ -2,6 +2,8 @@
 
 ## Show me the code Meetup - [bit.ly/showmethecode](https://bit.ly/showmethecode)
 
+## Fb Group - [Show-me-the-code-meetup](https://www.facebook.com/groups/1122128014540022/)
+
 ## 目標 Goal
 實驗中的活動系列，希望在香港和台灣舉行：
 
