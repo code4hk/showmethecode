@@ -29,7 +29,7 @@ export default class Temperature extends React.Component {
   getTemperature() {
     this.setState(Object.assign({}, this.state, { loading: true }));
     $.ajax({
-      url: `//iot-rogerhokp.rhcloud.com/temperature?limit=100&hourly=${this.hourly}`,
+      url: `//xxxxxxxxxxxxxx/temperature?limit=100&hourly=${this.hourly}`,
       dataType: 'json',
       success: data => {
         this.setState({ data, loading: false });
