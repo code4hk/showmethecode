@@ -1,0 +1,7 @@
+[include]
+[ignore]
+.*/node_modules/fbemitter/.*
+.*/node_modules/fbjs/.*
+.*/node_modules/flux/.*
+[options]
+esproposal.class_static_fields=enable
