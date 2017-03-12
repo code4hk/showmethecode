@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>Percentage Padding</title>
+    <style media="screen">
+      .container {
+        /* display: flex make it fail in Firefox */
+        /* CSS specification does not specific percentage padding in flexbox elements */
+        /* http://stackoverflow.com/questions/36783190/why-doesnt-percentage-padding-work-on-flex-items-in-firefox/36783414#36783414 */
+        display: flex;
+
+        max-width: 100%;
+        width: 1000px;
+      }
+      /* 16:9 */
+      .placeholder {
+        margin-bottom: 20px;
+
+        /* flex box shrink the element to 0, so we need to set it to 100% */
+        width: 100%;
+
+        padding-top: 56.25%;
+        /*padding-top: calc(9/16*100%);*/
+        background-color: hsl(240, 10%, 35%);
+      }
+    </style>
+  </head>
+  <body>
+    <main class="container">
+      <div class="placeholder"></div>
+    </main>
+    <div> Other content </div>
+  </body>
+</html>
