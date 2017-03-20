@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <!-- Latest compiled and minified CSS -->
+    <title>Bootstrap 3 Placeholder</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <style media="screen">
+      .container {
+        max-width: 100%;
+        width: 1000px;
+      }
+      .image-container {
+        background-color: #ddd;
+      }
+      .image {
+        display: block;
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+      }
+      .button {
+        display: inline-block;
+        padding: 6px 12px;
+        margin: 0;
+        text-decoration: none;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        touch-action: manipulation;
+        cursor: pointer;
+        user-select: none;
+        border-radius: 4px;
+        background: hsl(120, 40%, 45%);
+        color: #fff;
+      }
+      .button:hover {
+        background: hsl(120, 40%, 55%);
+      }
+    </style>
+    <script type="text/javascript">
+      document.addEventListener("DOMContentLoaded", function() {
+        var image = document.querySelector(".image");
+        setTimeout(function() {
+          image.src = "https://github.com/code4hk/showmethecode/raw/master/logo.png";
+        }, 5000);
+      });
+    </script>
+  </head>
+  <body>
+    <main class="container">
+      <!-- Set the src later to pretend loading -->
+      <div class="image-container embed-responsive embed-responsive-16by9">
+        <img class="image embed-responsive-item" alt="Code for Hong Kong">
+      </div>
+      <!-- The UX is bad, because the image push away the button after loaded -->
+      <a href="#" class="button">I am a Button</a>
+    </main>
+  </body>
+</html>

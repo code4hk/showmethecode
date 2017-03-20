@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>Percentage Padding</title>
+    <style media="screen">
+      .container {
+        max-width: 100%;
+        width: 1000px;
+      }
+      /* 1:1 */
+      .placeholder-1 {
+
+        margin-bottom: 20px;
+        padding-top: 100%;
+        /*padding-top: calc(1/1*100%);*/
+        background-color: hsl(120, 10%, 35%);
+      }
+      /* 3:4 */
+      .placeholder-2 {
+        margin-bottom: 20px;
+        padding-top: 75%;
+        /*padding-top: calc(3/4*100%);*/
+        background-color: hsl(200, 10%, 35%);
+      }
+      /* 16:9 */
+      .placeholder-3 {
+        margin-bottom: 20px;
+        padding-top: 56.25%;
+        /*padding-top: calc(9/16*100%);*/
+        background-color: hsl(240, 10%, 35%);
+      }
+      /* 2:1 */
+      .placeholder-4 {
+        margin-bottom: 20px;
+        padding-top: 50%;
+        /*padding-top: calc(1/2*100%);*/
+        background-color: hsl(160, 10%, 35%);
+      }
+    </style>
+  </head>
+  <body>
+    <main class="container">
+      <div class="placeholder-1"></div>
+      <div class="placeholder-2"></div>
+      <div class="placeholder-3"></div>
+      <div class="placeholder-4"></div>
+    </main>
+  </body>
+</html>
