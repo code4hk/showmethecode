@@ -4,6 +4,8 @@
 
 ## Fb Group - [Show-me-the-code-meetup](https://www.facebook.com/groups/1122128014540022/)
 
+## Slack Channel in CODE4HK - [CODE4HK](http://bit.ly/code4hk-slack) #showmethecode-hk
+
 ## 目標 Goal
 實驗中的活動系列，希望在香港和台灣舉行：
 
