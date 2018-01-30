@@ -62,6 +62,6 @@ Best practices for "chaining" with ESM + Async + Type check after ES6
 - Conclusion
   - Let's go for RxJS, if you have time to set up & learn
     - Promise interopable with RxJS
-  -  Those API being similar e.g. .map / .filter / .flatMap / flow() / compose() is Not an co-incident
-    1. Iterator - Observable duality, [paper]( http://csl.stanford.edu/~christos/pldi2010.fit/meijer.duality.pdf)
-    2. [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
+  -  Those API being similar e.g. .map / .filter / .flatMap / flow() / compose() is not an co-incident
+    - Iterator - Observable duality, [paper]( http://csl.stanford.edu/~christos/pldi2010.fit/meijer.duality.pdf)
+    - [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
