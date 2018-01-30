@@ -23,9 +23,9 @@ Best practices for "chaining" with ESM + Async + Type check after ES6
 -  ![test](http://www.datchley.name/content/images/2015/07/curry-function-closures.png)
 4. Extra benefits: Type check when load modularly, while..
   - Flow: A *Static* Type Checker for JavaScript
-  1. Limited to Run-time check as you can see at these custom builds solutions:
-    1. https://vuejs.org/v2/guide/plugins.html#Using-a-Plugin
-    2. http://idangero.us/swiper/api/#custom-build
+    -  Limited to Run-time check as you can see at these custom builds solutions:
+      -  https://vuejs.org/v2/guide/plugins.html#Using-a-Plugin
+      -  http://idangero.us/swiper/api/#custom-build
 
 ## is Chaining bad?
 -  Chaining itself is good?...
@@ -34,15 +34,14 @@ Best practices for "chaining" with ESM + Async + Type check after ES6
 ### Not done yet
 
 #### What about Async? What about other similar API?
-3. Similarly Bluebird is so fat, try to replace with [yaku](https://github.com/ysmood/yaku)
-- we have the Flow
-3. Async
-  1. Many Many ways
-  1. Demos
+-  Similarly Bluebird is so fat, try to replace with [yaku](https://github.com/ysmood/yaku)
+   - we also have the [flow!](https://github.com/ysmood/yaku#flowlist)
+   - Many Many ways
+   - Demos
 
 ### Still not satisfied
 
-4. Promise hell
+#### Promise hell
   1. http://rossboucher.com/await/#/9
   2. Fx scope problem
     - example 1
