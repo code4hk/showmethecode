@@ -4,10 +4,8 @@
 
 ## Fb Group - [Show-me-the-code-meetup](https://www.facebook.com/groups/1122128014540022/)
 
-## Slack Channel in CODE4HK - [CODE4HK](http://bit.ly/code4hk-slack) #showmethecode-hk
-
 ## 目標 Goal
-實驗中的活動系列，希望在香港和台灣舉行：
+實驗中的活動系列，希望在香港、台灣和新加玻舉行：
 
 香港的Tech Event不算多，而如台北Meetup的講座很多時都很長，
 
@@ -22,6 +20,8 @@
 在想以下的形式，叫"Show me the Code"的活動
 
 希望大家能多提意見和分享，本來的概念參考設計界的[pecha kucha](http://www.pechakucha.org/)－－只能用20張照片的限時演講
+
+而也會在有眾多大公司HQ的新加玻舉辦，希望國際化的社群能促進交流、到別的國家時也知道有活動可參與
 
 ## 規則 Rules
 1. 每晚5-6位講者，每人10-15分鐘(連Q&A)
