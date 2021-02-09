@@ -52,10 +52,28 @@ This is a series of lighting tech talks, in order to promote
 - Please add your topics in the [meta issue](https://github.com/code4hk/showmethecode/issues/1)
 - Discuss at the meet up issue e.g. [this one hk 20161115](https://github.com/code4hk/showmethecode/issues/2) to confirm the schedule
 
+### Free Recruitment airtime 
+Folks hiring hk developers --- *Free 3min Recruitment Airtime* at our upcoming online developer meetup, if your company support #opensourcesoftware .
+
+SHOW ME THE CODE Meetup is doing the #12 meetup in Cantonese (廣東話) next Tue (Feb9), our 2nd-time online.
+We have an active hk audience with ~30 developers shown up everytime.
+
+You can have your team member introducing your company / I will read your recruitment ads. (Quota = 5 companies every meetup)
+
+Eligible for Free Recruitment Airtime If your company meet any of the criteria below:
+
+1) has any member join as speaker doing any sharing in this event (~15min)
+2) able to show case any opensource contribution (PR/translations etc) within 6months, company size<500
+3) able to prove donation of $50+ USD to any project on opencollective https://lnkd.in/gA2QBEb within 1 month, company size<500
+
+
 ## 講者 Speakers
 - @indiejoseph @jjbubudi @rogerhokp @jc091 @karlvlam
 @isaac @kafai (OneSky)
 - @gilbertwat @vincentlaucy
+
+
+
 
 ## Others
 Previous LOGO Design: @waikitkan
